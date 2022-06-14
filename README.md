@@ -1,2 +1,2 @@
 # surfs_up
-jupyter notebook, vscode
+jupyter notebook, vscode, sqlite
