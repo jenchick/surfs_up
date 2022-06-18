@@ -5,9 +5,12 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 There is a bulleted list that addresses the three key differences in weather between June and December.
 
+![image](https://user-images.githubusercontent.com/102322707/174453318-ee5af13f-0221-48ba-963b-59c32c1fad4a.png)
 
 
 
+
+![image](https://user-images.githubusercontent.com/102322707/174453284-a80f07be-35db-48f3-90d6-98ac874b417c.png)
 
 
 
