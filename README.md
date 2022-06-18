@@ -14,21 +14,21 @@ Weather Station data for the months of June and December over the past seven yea
 
 - Key Differences Between the Two Months
 
--- More temperature observations are available for the month of June (11%).  However, it appears that there are enough observations in the month of December to find the data reliable.
+  - More temperature observations are available for the month of June (11%).  However, it appears that there are enough observations in the month of December to find the data reliable.
 
--- December is only slightly cooler (by two to four degrees) than June when comparing the average, median, and maximum temparatures. 
+  - December is only slightly cooler (by two to four degrees) than June when comparing the average, median, and maximum temparatures. 
 
---However, the minimum temperature in December is eight degrees cooler, dipping into the mid fifties. 
+  - However, the minimum temperature in December is eight degrees cooler, dipping into the mid fifties. 
 
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December
+Overall, based on the weather data, the surf/ice cream shop idea looks like a winner!  I would recommend looking more closely at the precipation data for these two months.  In addition to looking at weather to determine if a business is viable, I would strongly recommend a solid business plan.  
 
+Having owned and operated an ice cream shop within a candy/toy store store in central texas for over five years, I think there are several other factors that need to be examined. I would recommend looking at locations, surrounding businesses, tourist and traffic flow, in addition to performing a gap analysis on ice cream shops and surf shops to determine if the area is over-saturated.  Also, what will be different about this shop when compared to the other shops in the area?  There appears to be some fierce competition, as evidenced by the following links:
 
+https://hawaiitravelwithkids.com/best-oahu-ice-cream-spots/
 
-
-
-
+https://www.tripping.com/explore/the-7-best-surf-shops-on-oahu
 
 ## Resources
-jupyter notebook, vscode, SQLite, SQLAlchemy, Flask
+jupyter notebook, SQLite, SQLAlchemy, Pandas
