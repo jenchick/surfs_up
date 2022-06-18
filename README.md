@@ -31,4 +31,7 @@ https://hawaiitravelwithkids.com/best-oahu-ice-cream-spots/
 https://www.tripping.com/explore/the-7-best-surf-shops-on-oahu
 
 ## Resources
-jupyter notebook, SQLite, SQLAlchemy, Pandas
+
+Data Sources: hawaii.sqlite
+
+Software: jupyter notebook, Python 3.7 (64-bit), pandas
