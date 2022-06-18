@@ -1,4 +1,4 @@
-# surfs_up
+# Surf's Up with Advanced Data Storage and Retrieval
 ## Overview 
 W. Avy, avid surfer and entrepreneur, wants to collaborate on opening up a surf shop/ice cream shop combo.  As was discovered in a previous analysis, Oahu appears to be a fantastic location for the surf/ice cream shop.  The precipitation is low, the weather is mild, and the waves are wonderful!  The final piece of analysis before diving in would be to examine the months of June and December more closely to determine whether or not the shop would be sustainable year-round.  
 
